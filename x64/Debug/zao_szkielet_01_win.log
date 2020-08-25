@@ -1,0 +1,15 @@
+﻿  cube.cpp
+C:\Users\witek\Documents\1_iris\Dydaktyka\PP\Grafika komputerowa\2020\szkielety\zao_szkielet_01_win\model.h(24,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  main_file.cpp
+C:\Users\witek\Documents\1_iris\Dydaktyka\PP\Grafika komputerowa\2020\szkielety\zao_szkielet_01_win\main_file.cpp(22,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  model.cpp
+C:\Users\witek\Documents\1_iris\Dydaktyka\PP\Grafika komputerowa\2020\szkielety\zao_szkielet_01_win\model.h(24,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  shaderprogram.cpp
+C:\Users\witek\Documents\1_iris\Dydaktyka\PP\Grafika komputerowa\2020\szkielety\zao_szkielet_01_win\shaderprogram.h(25,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  sphere.cpp
+C:\Users\witek\Documents\1_iris\Dydaktyka\PP\Grafika komputerowa\2020\szkielety\zao_szkielet_01_win\model.h(24,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  teapot.cpp
+C:\Users\witek\Documents\1_iris\Dydaktyka\PP\Grafika komputerowa\2020\szkielety\zao_szkielet_01_win\model.h(24,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  torus.cpp
+C:\Users\witek\Documents\1_iris\Dydaktyka\PP\Grafika komputerowa\2020\szkielety\zao_szkielet_01_win\model.h(24,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  Generowanie kodu...

@@ -1,0 +1,13 @@
+﻿  cube.cpp
+  lodepng.cpp
+  main_file.cpp
+  model.cpp
+  shaderprogram.cpp
+  sphere.cpp
+  teapot.cpp
+  torus.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  zao_szkielet_01_win.vcxproj -> C:\Users\witek\Documents\1_iris\Dydaktyka\PP\Grafika komputerowa\2020\szkielety\zao_szkielet_01_win\Release\zao_szkielet_01_win.exe
